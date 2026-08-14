@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #16120c;
+}
+
+.site-frame {
+  display: block;
+  width: 100vw;
+  height: 100dvh;
+  border: 0;
+}
